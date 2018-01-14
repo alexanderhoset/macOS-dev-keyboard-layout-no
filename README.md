@@ -1,8 +1,6 @@
-# A Better Norwegian Keyboard Layout For OS X
+# A better Norwegian keyboard layout for developers on macOS and OS X
 
-As a developer **option+shift+8/9** is a painful three key combination to get one of the most used symbols.
-
-This Layout is made to solve this
+As a developer **option+shift+8/9** is a painful three key combination to get one of the most used symbols. This layout solve this
 
 ![no layout](https://github.com/alexanderhoset/norwegian-keybord-layout/raw/master/img/no-mod-layout.png)
 
@@ -12,8 +10,14 @@ If you have ever used the default Norwegian keyboard for OS X you may have notic
 
 ## Installation 
 
-Move no-mod.keylayout to /Library/Keyboard Layouts 
-or ~/Library/Keyboard Layouts
+Clone or download a zip of this repå
+
+copy no-mod.keylayout to
+/Library/Keyboard Layouts 
+or
+~/Library/Keyboard Layouts
+
+~ makes it only avalible for your user
 
 It will ask for a administrator password
 
