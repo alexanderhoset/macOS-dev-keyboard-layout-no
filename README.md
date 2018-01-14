@@ -10,7 +10,7 @@ If you have ever used the default Norwegian keyboard for OS X you may have notic
 
 ## Installation 
 
-Clone or download a zip of this repå
+Clone or download a zip of this repo
 
 copy no-mod.keylayout to
 /Library/Keyboard Layouts 
